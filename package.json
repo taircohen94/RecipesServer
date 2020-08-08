@@ -1,0 +1,26 @@
+{
+    "name": "assignment-3-2-tair_tali",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node main.js",
+        "debug": "node --nolazy --inspect-brk=9229 main.js"
+    },
+    "dependencies": {
+        "axios": "^0.19.2",
+        "bcrypt": "^4.0.1",
+        "bcryptjs": "^2.4.3",
+        "client-sessions": "^0.8.0",
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "morgan": "^1.10.0",
+        "mssql": "^6.2.0",
+        "nodemon": "^2.0.4"
+    },
+    "devDependencies": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
