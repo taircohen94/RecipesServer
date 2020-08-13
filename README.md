@@ -12,3 +12,7 @@ https://app.swaggerhub.com/apis/talish94/Assignment3.1/1.0.0
 ## About This Repo
 The repo contains only the Server side. The client code you can find in this repo ->
 https://github.com/taircohen94/RecipesClient.git
+
+
+## Team Members
+- [Tali Schvarz](https://github.com/talish94) - Developer 
